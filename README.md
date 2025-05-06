@@ -23,6 +23,8 @@ You probably don't want to do this. You may well be able to get what you want us
 
 I don't feel like this is a particularly efficient approach. If you know of a better approach (which I can validate and run without too much work) feel free to add it as an issue and I will linke to this here.
 
+I coded this using Python inside emacs. A more standard approach would be to use a jupyter notebook. If I were to use this a lot, I would have this watch for changes to the palette and automatically update the display of the image.
+
 ## Usage
 I made this tool in [emacs org-mode](https://orgmode.org/) using [babel](https://orgmode.org/worg/org-contrib/babel/intro.html) and [emacs-jupyter](https://github.com/emacs-jupyter/jupyter).
 
