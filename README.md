@@ -15,7 +15,7 @@ I may have been able to got the effect I wanted by posterizing with a medium num
 
 ## Some pages on this topic
 
-1. [ImageMagick palette swap] (https://www.reddit.com/r/imagemagick/comments/17boqyn/how_to_replace_multiple_exact_colors_palette_swap/)
+1. [ImageMagick palette swap](https://www.reddit.com/r/imagemagick/comments/17boqyn/how_to_replace_multiple_exact_colors_palette_swap/)
 2. [Edit and reorder palette in GIMP](https://www.reddit.com/r/GIMP/comments/1kffkjx/edit_and_reorder_palette/)
 
 ## Caveat
